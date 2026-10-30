@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kagaku-sakikusa",
  "yomi": "さきくさ",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（他撰）",
+  "era": "天保8年（1837）2月跋",
+  "author": "畠山梅軒",
+  "desc": "畠山梅軒の家集。京では芝山持豊に、江戸では横瀬貞信らに学び、のちに万葉家の人々と交わったと序にいう。文政元年から天保2年までの六百余首を門人が選び出した。"
+ },
  "editions": [
   {
    "pid": "993386",
